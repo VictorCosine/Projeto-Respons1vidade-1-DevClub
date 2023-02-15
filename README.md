@@ -1,7 +1,7 @@
 
 <h1>Meu primeiro Projeto de Responsividade</h1>
 <br>
-<P> Esse foi meu primeiro projeto pensando em responsividade, criamos durante um desafio la do <a href="https://rodolfomori.com.br/devclub">DevClub</a>. </p>
+<P> Esse foi meu primeiro projeto pensando em responsividade, criamos durante um desafio lá do <a href="https://rodolfomori.com.br/devclub">DevClub</a>. </p>
 <br>
 <h2>:computer:Nesse projeto foram usadas as seguintes tecnologias:</h2>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="Logo-HTML" width=45px height=30px/>
